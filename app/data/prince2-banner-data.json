@@ -1,0 +1,24 @@
+[
+  {
+    "image": "/prince2man.png",
+    "alt": "prince2man",
+    "title": "What is PRINCE2®?",
+    "description": "PRINCE2 is a process-based method for effective project management, and this qualification will equip you with the fundamental skills needed to be a successful project manager",
+    "priceWas": "£1,045.00",
+    "priceFrom": "£888.25",
+     "textColor": "text-[#ffffff]",
+    "flags": ["/flag1.png", "/flag2.png", "/flag1.png", "/flag2.png"],
+    "bgColor": "bg-foreground"
+  },
+  {
+    "image": "/prince2women.png",
+    "alt": "prince2women",
+    "title": "What is PRINCE2 Agile®?",
+    "description": "PRINCE2 Agile combines the flexibility and responsiveness of agile with the clearly-defined framework of PRINCE2, and has been created for individuals and organisations who already use the PRINCE2 methodology to manage their projects.",
+    "priceWas": "£1,045.00",
+    "priceFrom": "£888.25",
+    "textColor": "text-foreground",
+    "flags": ["/flag1.png", "/flag2.png", "/flag1.png", "/flag2.png"],
+    "bgColor": "bg-[#58CAE9]"
+  }
+]

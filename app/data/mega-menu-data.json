@@ -1,0 +1,97 @@
+{
+  "courses": [
+    {
+      "name": "PRINCE2 Agile®",
+      "details": [
+        {
+          "name": "Foundation & Practitioner",
+          "links": [
+            { "name": "Online", "href": "#" },
+            { "name": "Classroom", "href": "#" },
+            { "name": "Blended Learning", "href": "#" },
+            { "name": "Virtual", "href": "#" },
+            { "name": "Plus Pack", "href": "#" }
+          ]
+        },
+        {
+          "name": "Foundation",
+          "links": [
+            { "name": "Classroom", "href": "#" },
+            { "name": "Virtual", "href": "#" }
+          ]
+        },
+        {
+          "name": "Practitioner",
+          "links": [
+            { "name": "Online", "href": "#" },
+            { "name": "Classroom", "href": "#" },
+            { "name": "Virtual", "href": "#" }
+          ]
+        }
+      ],
+      "Related resources": [
+        {
+          "name": "Related resources",
+          "links": [
+            { "name": "Bookstore", "href": "#" },
+            { "name": "Training seminars", "href": "#" },
+            { "name": "Take2", "href": "#" },
+            { "name": "Free downloads", "href": "#" },
+            { "name": "Virtual learning", "href": "#" },
+            { "name": "Virtual FAQs", "href": "#" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRINCE2® 7",
+      "details": [
+        {
+          "name": "Foundation & Practitioner",
+          "links": [
+            { "name": "Online", "href": "#" },
+            { "name": "Classroom", "href": "#" }
+          ]
+        },
+        {
+          "name": "Foundation",
+          "links": [
+            { "name": "Classroom", "href": "#" },
+            { "name": "Virtual", "href": "#" },
+            { "name": "Plus Pack", "href": "#" }
+          ]
+        },
+        {
+          "name": "Practitioner",
+          "links": [
+            { "name": "Online", "href": "#" },
+            { "name": "Classroom", "href": "#" },
+            { "name": "Virtual", "href": "#" }
+          ]
+        }
+      ],
+      "Related resources": [
+        {
+          "name": "Related resources",
+          "links": [
+            { "name": "Bookstore", "href": "#" },
+            { "name": "Training seminars", "href": "#" },
+            { "name": "Take2", "href": "#" },
+            { "name": "Free downloads", "href": "#" },
+            { "name": "Virtual learning", "href": "#" },
+            { "name": "Virtual FAQs", "href": "#" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Introduction to MS Project",
+      "details": [
+        {
+          "name": "Course Details",
+          "links": [{ "name": "Course Details", "href": "#" }]
+        }
+      ]
+    }
+  ]
+}
